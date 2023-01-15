@@ -65,9 +65,7 @@
        ミリタリーグリーンのような色と思えば…
     - ボトムプレートのネジ穴が大きすぎるのでネジの頭の部分が貫通してしまいます
        同梱のワッシャーを使ってください
-    - ボトムプレートを直接メインボードにネジ止めする方法がありません。
-      トッププレートを装着する前提となっているためメインボードにネジ穴がありません
-      側面をマスキングテープなどで覆って固定すると問題なく使えました
+    - アクリルトッププレートを装着しない場合、ボトムプレートとメインボードをネジ止めする方法がありません。その場合は側面をマスキングテープなどで覆って固定すると問題なく使えました
 
     なおアクリルのボトムプレートを装着する場合はFR4製ボトムプレートは不要となります。
     出来上がりを見てからアクリルをオーダするか検討されても良いでしょう。
@@ -87,8 +85,8 @@
   8. 全体を組み立てる
 
 ### 1. PGA2040をメインボードに取り付ける
-最大の山場です。取り付けの歳の表裏、向きに十分注意してください
-一度間違ったはんだ付けをするとリカバリは非常に困難になります。
+最大の山場です。一度間違ったはんだ付けをするとリカバリは非常に難しくなってしまいます。取り付けの歳の表裏、向きに十分注意してください。
+
 
 メインボードの表側はアクリル製のトッププレートを装着することを想定して
 半田の出っ張りがない平らな状況にするのがポイントとなります。そのため正しいはんだ付けの
@@ -96,26 +94,26 @@
 
 1. 12連ピンヘッダを8連 + 4連に切り離す
   
-  <img src="img/img_8968.jpg" alt="img" title="pinheader1" width=300>
+     <img src="img/img_8968.jpg" alt="img" title="pinheader1" width=300>
 
 2. ピンの出っ張りを 2.0～2.5mmの長さになるよう細かく調整する
 
-  <img src="img/img_8969.jpg" alt="img" title="pinheader2" width=300>
+     <img src="img/img_8969.jpg" alt="img" title="pinheader2" width=300>
 
 3. メインボードの裏側にPGA2040を配置しテープで仮止めする
     - PGA2040はメインボードの裏側に取り付けます。
     - PGA2040のマークとメインボードのマークが合うように配置します。
     - 次の工程に進む前にオモテウラ、向きを十分に確かめてください。
 
-  <img src="img/img_8972.jpg" alt="img" title="pinheader2" width=300>
+     <img src="img/img_8972.jpg" alt="img" title="pinheader2" width=300>
 
 4. メインボードの裏側からピンヘッダを刺し、テープで仮止めする
 
-  <img src="img/img_8973.jpg" alt="img" title="pinheader2" width=300>
+     <img src="img/img_8973.jpg" alt="img" title="pinheader2" width=300>
 
   -   メインボードの表側にピンヘッダが飛び出していないこと、極端に短くないことを確認
 
-  <img src="img/img_8974.jpg" alt="img" title="pinheader2" width=300>
+      <img src="img/img_8974.jpg" alt="img" title="pinheader2" width=300>
 
 5. メインボードの表側からはんだ付けする。
 
@@ -124,11 +122,11 @@
     - 十分にハンダを入れるとともに山にならないように留意
     - 仕上がりは出っ張りがないツライチになるのが理想
 
-  <img src="img/img_8976.jpg" alt="img" title="pinheader2" width=300>
+      <img src="img/img_8976.jpg" alt="img" title="pinheader2" width=300>
 
 6. メインボードの裏側のピンヘッダの連結部を外し、ニッパーで足を切りそろえる
 
-  <img src="img/img_8977.jpg" alt="img" title="pinheader2" width=300>
+      <img src="img/img_8977.jpg" alt="img" title="pinheader2" width=300>
   
 
 7. メインボードの裏側からはんだ付けする。 
@@ -139,7 +137,7 @@
 9. ハンダ忘れ、ブリッジなどの不良箇所がないかを自己レビューする
 
 
-  <img src="img/img_8979.jpg" alt="img" title="pinheader2" width=300>
+    <img src="img/img_8979.jpg" alt="img" title="pinheader2" width=300>
 
 ### 2. タクトスイッチをメインボードに取り付ける
 
@@ -148,7 +146,7 @@
    - 繊細なスイッチなので ハンダづけの際にハンダを盛りすぎるとスイッチ内部に流れ込み
      スイッチが押せなくなってしまうということもありました。注意して作業してください。
 
-  <img src="img/img_8981.jpg" alt="img" title="pinheader2" width=300>
+    <img src="img/img_8981.jpg" alt="img" title="pinheader2" width=300>
   
 ### 3. ファームウェアを書き込む
 1. PCと接続するまえに改めてハンダ箇所のレビューをする
@@ -162,7 +160,7 @@
 1. メインボードの裏側から、ホイールノブを部品の突起と基板の穴を合わせて配置
 2. 6箇所のパッドと左右のパッドをはんだ付けする
 
-  <img src="img/img_8980.jpg" alt="img" title="pinheader2" width=300>
+    <img src="img/img_8980.jpg" alt="img" title="pinheader2" width=300>
 
 ### 5. LEDをメインボードに取り付ける
   - 91個取り付ける。
@@ -184,7 +182,6 @@
 ### 8. 本体を組み立てる
   - ボトムプレート、スペーサー、メインボード (トッププレート)をねじで組み上げます
   - トッププレートがない場合、上側はネジ止めできません
-
 
 # つかいかた
 
