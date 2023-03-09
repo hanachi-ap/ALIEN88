@@ -2,16 +2,21 @@
 # ALIEN-88  TKL Mech Keyboard for gaming
 
 ## Specs
-- TKL Mechanical Keyboard
-- N-key roll over and anti-ghost
-- Hot-swappable Choc low-profile key switches
-- Utility keys added to right and left
-- Extensive thumb keys arrangement
-- Programmable wheel knob
-- All keys can be redefined
-- User-defined keymap of up to 10 layers
-- USB wired connection
-- Full-color LED lights
+## Specs
+
+- Stylish and sophisticated TKL Mechanical Keyboard designed for gamers
+- Slim and compact design perfect for any gaming setup
+- N-key rollover and anti-ghosting technology for accurate keystroke registration
+- Hot-swappable low-profile key switches for easy customization
+- Utility keys on both sides of the device for quick access to shortcuts and macros
+- Colorful LED lighting for a unique touch
+- Improved thumb key layout for a comfortable typing experience
+- Programmable wheel knob for easy volume adjustment and other customizable operations
+- All keys are fully reassignable
+- Customizable keymap supports up to 10 layers for maximum efficiency during gameplay
+- Stable and fast USB wired interface for reliable connectivity
+- Dimentions:  332mm x 133mm x 8.6mm (Excluding caps and switches)
+
 - Dimentions:  332mm x 133mm x 8.6mm (Excluding caps and switches)
   
 ## MCU
