@@ -2,84 +2,93 @@
 # ALIEN-88  TKL Mech Keyboard for gaming
 
 ## Specs
-## Specs
 
-- Stylish and sophisticated TKL Mechanical Keyboard designed for gamers
-- Slim and compact design perfect for any gaming setup
-- N-key rollover and anti-ghosting technology for accurate keystroke registration
-- Hot-swappable low-profile key switches for easy customization
-- Utility keys on both sides of the device for quick access to shortcuts and macros
-- Colorful LED lighting for a unique touch
-- Improved thumb key layout for a comfortable typing experience
-- Programmable wheel knob for easy volume adjustment and other customizable operations
-- All keys are fully reassignable
-- Customizable keymap supports up to 10 layers for maximum efficiency during gameplay
-- Stable and fast USB wired interface for reliable connectivity
-- Dimentions:  332mm x 133mm x 8.6mm (Excluding caps and switches)
+- ゲーマー向けにデザインされたスタイリッシュで洗練されたテンキーレス(TKL)メカニカルキーボード
+- どんなゲーミングセットアップにも最適なスリムでコンパクトなデザイン
+- Nキーロールオーバーとアンチゴーストテクノロジーにより、正確なキーストローク登録を実現。
+- ホットスワップ可能なロープロファイル・キースイッチにより、カスタマイズが容易。
+- ショートカットやマクロに素早くアクセスできるユーティリティキーを本体両面に搭載
+- 全キーLED照明で個性的に
+- 親指キーのレイアウトを改善し、快適なタイピングを実現
+- 音量調整などのカスタマイズが簡単にできるプログラマブルホイールノブ
+- すべてのキーは完全に再割り当て可能です。
+- カスタマイズ可能なキーマップは最大10レイヤーに対応し、ゲームプレイ中の効率を最大限に高めます。
+- 安定した高速USB有線インターフェースで、信頼性の高い接続を実現。
+- 外形寸法  332mm×133mm×8.6mm（キャップ、スイッチ含まず。）
 
-- Dimentions:  332mm x 133mm x 8.6mm (Excluding caps and switches)
-  
+
 ## MCU
-- Processor: PR2040 (Pimoroni PGA2040)
-- Firmware:   
+- プロセッサー: PR2040 (Pimoroni PGA2040)
+- ファームウェア:   
     - QMK Firmware (VIA/Remap ready)
     - PRK firmware
 
 # 試作機おすそ分け版
 
 ## 同梱品
-  - メインボード(PCB) 1枚
-  - ボトムプレート(FR4製) 1枚
-  - スタビライザ用スペーサ 2種 x 4枚
-  - スペーサー 3.5mm 6個
-  - ネジ M2 3mmネジ 6個
-  - ネジ M3 5mmネジ 6個
-  - 樹脂ワッシャー  6個 (ボトムプレートバグ回避のため)
-  - タクトスイッチ 1個
-  - ホイールノブ 1個
-  - (ダイオードはPCBAしてあります)
+1. ALIEN-88 キーボード組み立てセット
+   - メインインボード(PCB) 1枚
+   - アクリルトッププレート 1枚
+   - アクリルボトムプレート 1枚
+   - スタビライザ用スペーサ 2種 x 4枚
+   - ホイールノブ 1個
+   - スペーサー 3.5mm 5個
+   - ネジ M2 3mmネジ 10個
+   - ゴム足 6個
+   - スタビライザアタッチメント(2U→3U) 4個
+
+2. ALIEN-88 テンキーパッド 組み立てセット
+   - メインボード(PCB) 1枚
+   - アクリルトッププレート 1枚
+   - アクリルボトムプレート 1枚
+   - スタビライザ用スペーサ 2種 x 4枚
+   - スペーサー 3.5mm 5個
+   - ネジ M2 3mmネジ 10個
+   - ゴム足 6個
 
 ## 他に必要なパーツ
-  - PGA2040  1個
-     https://akizukidenshi.com/catalog/g/gM-16762/
-  - ピンヘッダ (ProMicroについてきて余ってるもの) 4個
-  - スイッチソケット(Choc) 91個
-  - スイッチ(Choc v1) 91個
-  - Choc用スタビライザ 2U  4個
-  - LED (SK6812MINI-E) 91個
-  - USBケーブル (USB A to USB Cのもの)
-  - キーキャップ
-    - 1U     77
-    - 1.25U  6
-    - 1.75U  2
-    - 1.5U   2
-    - 2.25U  2
-    - 3.0U   2 (2.25で代用も可)
+1. ALIEN-88 キーボード
+- PGA2040 1個
+  https://akizukidenshi.com/catalog/g/gM-16762/
+- ピンヘッダ 12ピン 4個
+  ProMicroについてきて余ってるもの
+- 表面実装用タクトスイッチ　ＴＨＡＦ０１ーＮＣーＲ 1個
+  
+  https://akizukidenshi.com/catalog/g/gP-14887/
+  本来は頒布キットに含めるべきものですが手元の在庫を切らして次の仕入れの予定が無いため各個に手配下さい。PGA2040と合わせて秋月電子通商さんなどから購入すると便利です。
+- スイッチソケット(Choc) 91個
+- スイッチ(Choc v1) 91個
+- Choc用スタビライザ 2U 4個
+- LED (SK6812MINI-E) 91個
+- USBケーブル (USB A to USB Cのもの)
+- Chock V1用 キーキャップ (ANSI US配列に適合の各種)
+  ChocFox Legendsキーキャップセットを推奨します。
+  https://talpkeyboard.net/items/63c7d570c9883d1ecd88dd32
+  
+  ChocFox Legends Choc用 キーキャップセットの ALPHA KIT と EXTRA KIT の組み合わせががちょうど適合します。
+  
+  分割スペースバーに3Uサイズコンベックスキーキャップを使うときは、頒布キットに同梱のスタビライザアタッチメントを使用して下さい。
+  
+ダイオードはPCBに取り付け済みです
 
-## オプション
-  アクリルプレートを付ける場合は、加工データをもとに
-  各自で作成してください (遊舎工房へ依頼した場合、トップとボトム1枚づつで¥6,650でした)
+2. ALIEN-88 テンキーパッド
+- スイッチソケット(Choc) 23個
+- スイッチ(Choc v1) 23個
+- LED (SK6812MINI-E) 23個
+- USBケーブル (USB A to USB Cのもの)
+
+テンキーパッドの方はソケットとLED以外のパーツはPCBに取り付け済みです。
 
 ## 試作版での既知の不具合
   - USB C to USB C のケーブルは利用できません。
     USB A to UCB Cであれば問題ありません。
     基板のUSB周りの設計のミスです。今後修正予定です
 
-  - ボトムプレート(FR4製)の不具合
-     - ボトムプレートの下面を向く側が黒く塗られておらず、基板の色がそのままになっています。
-       ミリタリーグリーンのような色と思えば…
-    - ボトムプレートのネジ穴が大きすぎるのでネジの頭の部分が貫通してしまいます
-       同梱のワッシャーを使ってください
-    - アクリルトッププレートを装着しない場合、ボトムプレートとメインボードをネジ止めする方法がありません。その場合は側面をマスキングテープなどで覆って固定すると問題なく使えました
+  - プレート取付穴の不一致
+    ボトムプレート、PCB、トッププレートを重ねたとき、中央下段位置のネジ穴の位置が
+    揃いません。この部分1箇所については構造上大きな影響はないためネジ止めせずに利用して下さい。
 
-    なおアクリルのボトムプレートを装着する場合はFR4製ボトムプレートは不要となります。
-    出来上がりを見てからアクリルをオーダするか検討されても良いでしょう。
-
-  - アクリルのトッププレートを装着する場合、ネジ穴が1箇所干渉するところがあります
-     その部分をネジ止めしないか、スタビスペーサを少しヤスリで削るなどすれば大丈夫です
-     次版以降で修正予定です。
-  
-## つくりかた
+  ## つくりかた (ALIEN-88 キーボード本体)
   1. PGA2040をメインボードに取り付ける
   2. タクトスイッチをメインボードに取り付ける
   3. ファームウェアを書き込む
@@ -193,24 +202,38 @@
   - ボトムプレート、スペーサー、メインボード (トッププレート)をねじで組み上げます
   - トッププレートがない場合、上側はネジ止めできません
 
+## 作り方  (ALIEN-88 テンキーパッド)
+
+テンキーパッドは主要なパーツはすべて向上で取り付けています。
+ユーザは、スイッチソケット及びLEDをはんだ付けして下さい。
+
+組み立ては ボトムプレート、PCB、トッププレートの順に重ね、スペーサとネジで
+固定します。
+
+
+
 # つかいかた
 
-## ファームウェア書き込み
-  BOOTSELボタンを押しながらUSBをPCへ接続するとストレージデバイスがマウントされます。新しいファームウェアをエクスプローラーからコピーすると書き込みが完了します
+ 
+BOOTSELボタンを押しながらUSBをPCへ接続するとストレージデバイスがマウントされます。新しいファームウェアをエクスプローラーからコピーすると書き込みが完了します
 
-  デフォルトキーマップでは、一番右上のキーを押しながら一番左下のキーを押すとBOOTSELモードに移行するようになっています。
-  
-   - QMK Firmware [ergotonic_alien88_via.uf2](../firmware/qmk/ergotonic_alien88_via.uf2)
-
-   - PRK Firmware [keymap.rb](../firmware/prk/keymap.rb)
-
-
-## キーマップ変更
- -   VIA  https://usevia.app/#/
- -   REMAP  https://remap-keys.app/
-
- 開発版の段階では公式に登録されていないので、
+キーマップの変更はReMAPもしくはVIAが便利です。開発版の段階では公式に登録されていないので、
  jsonファイルを読み込ませてください。
 
- - [alien88_via.json](../firmware/via/alien88_via.json)
+
+### ALIEN-88 キーボード  
+- QMK Firmware [ergotonic_alien88_via.uf2](../firmware/qmk/ergotonic_alien88_via.uf2)
+- PRK Firmware [keymap.rb](../firmware/prk/keymap.rb)
+- VIA definition [alien88_via.json](../firmware/via/alien88_via.json)
+
+  デフォルトキーマップでは、一番右上のキーを押しながら一番左下のキーを押すとBOOTSELモードに移行するようになっています。
+
+### ALIEN-88 テンキーパッド
+
+- QMK Firmware [ergotonic_alien88_numpad_via.uf2](../alien88_numpad/firmware/qmk/ergotonic_alien88_numpad_via.uf2)
+      
+  出荷時に書き込み済みです
+
+- PRK Firmware [keymap.rb](../alien88_numpad/firmware/prk/keymap.rb)
+- VIA definition [alien88_numpad_via.json](../alien88_numpad/firmware/via/alien88_numpad_via.json)
 
