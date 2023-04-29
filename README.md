@@ -8,10 +8,8 @@
  - [User's Guide](doc/users_guide.md)
 
 
-## Firmwware
- - [QMK Firmware](https://github.com/hanachi-ap/kbd_firmware/tree/main/qmk_firmware/keyboards/hanachi_ap/) (for qmk_firmware_0.18.17)
- - PRK Firmware (not yet)
-
+## Firmware
+ - [Firmware source code](https://github.com/hanachi-ap/kbd_firmware/tree/main/qmk_firmware/keyboards/hanachi_ap/) (for qmk_firmware_0.18.17)
 
 ## Resources
   - Please hold on for a moment regarding this information.
