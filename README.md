@@ -1,10 +1,10 @@
 # ALIEN-88 -  Self-made Mechanical Keyboard 
+   <img src="doc/img/a88-photo1.jpg" alt="img" title="ALIEN88 : Self-made Mechanical Keyboard" width=700>
 
- 
 ## Documents
 
  - [About ALIEN88](https://coal.hatenablog.com/entry/2023/04/22/190904) (In Japanse article)
- - [Keyboard Instration Guide](doc/instration_guide.md)
+ - [ALIEN88  Installation Guide](doc/installation_guide.md)
  - [User's Guide](doc/users_guide.md)
 
 
@@ -14,4 +14,4 @@
 
 
 ## Resources
-  Please hold on for a moment regarding this information.
+  - Please hold on for a moment regarding this information.

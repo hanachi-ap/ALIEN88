@@ -1,13 +1,15 @@
-# ALIEN88 Instration Guide
-
-1. Install 91 switch sockets
-2. Assemble by joining plates together
-3. Assemble Stabilizers
-4. Put Switchs and a Caps
-5. Test
+# ALIEN88 Installation Guide
 
 
--  trouble-shooting
+- [ALIEN88 Installation Guide](#alien88-installation-guide)
+  - [1. Install 91 switch sockets](#1-install-91-switch-sockets)
+  - [2. Assemble by joining plates together](#2-assemble-by-joining-plates-together)
+  - [3. Assemble Stabilizers](#3-assemble-stabilizers)
+  - [4. Put Switchs and a Caps](#4-put-switchs-and-a-caps)
+  - [5. Test](#5-test)
+    - [5-1 Confirmation of connection](#5-1-confirmation-of-connection)
+    - [5-2 Test Matrix](#5-2-test-matrix)
+  - [trouble-shooting](#trouble-shooting)
 
 
 ## 1. Install 91 switch sockets
