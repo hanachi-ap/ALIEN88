@@ -1,4 +1,4 @@
-# ALIEN-88 -  Self-made Mechanical Keyboard 
+# ALIEN88 -  Self-made Mechanical Keyboard 
    <img src="doc/img/a88-photo1.jpg" alt="img" title="ALIEN88 : Self-made Mechanical Keyboard" width=700>
 
 ## Documents
