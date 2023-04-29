@@ -1,10 +1,11 @@
 # ALIEN88 User's Guide
 - [ALIEN88 User's Guide](#alien88-users-guide)
 	- [1．ALIEN88でできること](#1alien88でできること)
-	- [2． 言語環境について](#2-言語環境について)
+	- [2．言語環境について](#2言語環境について)
 	- [3. キーマップの変更](#3-キーマップの変更)
 	- [4. Default keymap](#4-default-keymap)
 	- [5. ファームウェアの更新](#5-ファームウェアの更新)
+	- [6. ファームウェアの改造](#6-ファームウェアの改造)
 
 ## 1．ALIEN88でできること
 
@@ -40,14 +41,7 @@
   移動させる、ボタンクリックする、ホイールを操作するといったことを定義することができます。
 
 
-上記はALIEN88の標準ファームウェアでできることの一部です。もし更に様々な機能を拡張したい場合、
-ユーザ自身でファームウェアをカスタマイズすることができます。ぜひチャレンジしてみて下さい。
-
-  - [ALIEN88 Firmware Source code](https://github.com/hanachi-ap/kbd_firmware/tree/main/qmk_firmware/keyboards/hanachi_ap/) (for qmk_firmware_0.18.17)
-
-  - [QMK Firmware document](https://docs.qmk.fm/#/ja/)
-
-## 2． 言語環境について
+## 2．言語環境について
 ALIEN88は、物理的な配置としては英語配列(US ANSI)をベースに独自の配合を行っています、理論配列は 英語、日本語
 あるいは他の言語設定でも問題なく利用することができます。
 
@@ -115,3 +109,13 @@ ALIEN88のデフォルトキーマップです。
 
 	- うまくファームウェアが更新されれば再びキーボードとして機能し始めます。
 
+## 6. ファームウェアの改造
+
+上記はALIEN88の標準ファームウェアでできることの一部です。もし更に様々な機能を拡張したい場合、
+ユーザ自身でファームウェアをカスタマイズすることができます。ぜひチャレンジしてみて下さい。
+
+  - [ALIEN88 Firmware Source code](https://github.com/hanachi-ap/kbd_firmware/tree/main/qmk_firmware/keyboards/hanachi_ap/) (for qmk_firmware_0.18.17)
+
+  - [QMK Firmware document](https://docs.qmk.fm/#/ja/)
+--------
+[HOME](../README.MD)

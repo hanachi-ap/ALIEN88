@@ -87,3 +87,5 @@ Connect the keyboard to the PC with a USB cable.Then check the following items
 	ボトムプレートを外し、問題の箇所をよく確認して是正して下さい。
 
 
+--------
+[HOME](../README.MD)
