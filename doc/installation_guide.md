@@ -2,8 +2,8 @@
 
 
 - [ALIEN88 Installation Guide](#alien88-installation-guide)
-  - [1. Install 91 switch sockets](#1-install-91-switch-sockets)
-  - [2. Assemble by joining plates together](#2-assemble-by-joining-plates-together)
+  - [1. Install switch sockets](#1-install-switch-sockets)
+  - [2.Assemble the body](#2assemble-the-body)
   - [3. Assemble Stabilizers](#3-assemble-stabilizers)
   - [4. Put Switchs and a Caps](#4-put-switchs-and-a-caps)
   - [5. Test](#5-test)
@@ -11,16 +11,27 @@
     - [5-2 Test Matrix](#5-2-test-matrix)
   - [trouble-shooting](#trouble-shooting)
 
+These build procedures are common to both TKL and NumPad with a few exceptions.
 
-## 1. Install 91 switch sockets
+## 1. Install switch sockets
+
+Solder a total of 91 switch sockets to the back of the PCB.
+For NumPad, install 23 pieces.
+
   <img src="img/fig1.png" alt="img" title="Install 91 switch sockets" width=700>
 
   <img src="img/fig1-2.png" alt="img" title="Install 91 switch sockets" width=700>
 
-## 2. Assemble by joining plates together
+## 2.Assemble the body
+
+Assemble the plate with screws and spacers.
+
   <img src="img/fig2.png" alt="img" title="Assemble Stabilizers" width=700>
 
 ## 3. Assemble Stabilizers
+
+(TKL only)
+
   <img src="img/fig3.png" alt="img" title="Assemble the plates" width=700>
 
 ## 4. Put Switchs and a Caps
@@ -28,7 +39,7 @@
   <img src="img/fig4-1.png" alt="img" title="Put Switches" width=700>
 
 
-- Typical cap arrangement
+- Example of a typical cap arrangement
 
   <img src="img/fig4-2.png" alt="img" title="Typical cap placement" width=700>
 

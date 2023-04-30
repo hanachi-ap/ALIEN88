@@ -55,7 +55,7 @@ ALIEN88は、物理的な配置としては英語配列(US ANSI)をベースに�
 	日本語キーボードに特有の 「変換」「無変換」といったキーはデフォルトキーマップでは
 	定義されていませんが必要に応じて、好きなキーの位置に定義することができます。
 	この「変換」等のキーについても OS側が英語キーボードとしてALIEN88を認識している
-	状況ではキーボードがコードを送っても無視されてしまいます。
+	状況ではキーボードがキーコードを送っても無視されてしまいます。
 
 	市場に出回っているロープロファイルのキーキャップは英語配列に準じたものしか入手できない状況です。
 	日本語キーボードとして使用する場合は、キーの刻印と入力される記号部分が一致しないことは
@@ -114,7 +114,7 @@ ALIEN88のデフォルトキーマップです。
 上記はALIEN88の標準ファームウェアでできることの一部です。もし更に様々な機能を拡張したい場合、
 ユーザ自身でファームウェアをカスタマイズすることができます。ぜひチャレンジしてみて下さい。
 
-  - [ALIEN88 Firmware Source code](https://github.com/hanachi-ap/kbd_firmware/tree/main/qmk_firmware/keyboards/hanachi_ap/) (for qmk_firmware_0.18.17)
+  - [Firmware Source code](https://github.com/hanachi-ap/kbd_firmware/tree/main/qmk_firmware/keyboards/hanachi_ap/) (for qmk_firmware_0.18)
 
   - [QMK Firmware document](https://docs.qmk.fm/#/ja/)
   
