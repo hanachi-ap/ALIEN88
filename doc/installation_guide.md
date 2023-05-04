@@ -16,6 +16,11 @@ These build procedures are common to both TKL and NumPad with a few exceptions.
 
 
 ## Required tools
+
+- はんだ小手と関連ツール一式
+- 精密ドライバー (プラス0番)
+- ラジオペンチ
+  
   <img src="img/tools.png" alt="img" title="Tools" width=700>
 
 ## 1. Install switch sockets
@@ -23,23 +28,37 @@ These build procedures are common to both TKL and NumPad with a few exceptions.
 Solder a total of 91 switch sockets to the back of the PCB.
 For NumPad, install 23 pieces.
 
+ スイッチソケットをPCBの裏面にはんだ付けする。 TKLキーボードの場合91個、NumPadの場合23個
+
+
   <img src="img/fig1.png" alt="img" title="Install switch sockets" width=700>
 
   <img src="img/fig1-2.png" alt="img" title="Install 91 switch sockets" width=700>
 
 ## 2.Assemble the body
 
-Joint the plate with screws and spacers.
-
+- もしアクリル板に保護紙がついている場合は組み立てる前に剥がし取る
+- ①ボトムプレートにスペーサを取り付ける(裏表に注意)
+- ②ボトムプレート、PORONシート、PCB、トッププレートの順に重ねてネジ止めする
   <img src="img/fig2.png" alt="img" title="Assemble the body" width=700>
 
 ## 3. Assemble Stabilizers
 
 (TKL only)
 
+- スタビライザーのステムをソケットに下方向から挿入する(向きに注意)
+- バーを挿入する
+- スタビライザー用プレート(A)を上方向からかぶせる
+- スタビライザー用プレート(B)とともに本体へ取り付ける
+  
   <img src="img/fig3.png" alt="img" title="Assemble Stabilizers" width=700>
 
+- 3Uサイズのキーをスタビライザに装着するには、付属のアタッチメントを使用。
+  <img src="img/fig3-1.jpg" alt="img" title="Assemble Stabilizers" width=700>
+
 ## 4. Put Switchs and a Caps
+
+- スイッチをキーボードへ取り付ける (スイッチの足折れに注意)
 
   <img src="img/fig4-1.png" alt="img" title="Put Switches" width=700>
 
