@@ -149,4 +149,4 @@ Connect the keyboard to the PC with a USB cable.Then check the following items
 
 
 --------
-[HOME](index.md)
+[HOME](../README.md)

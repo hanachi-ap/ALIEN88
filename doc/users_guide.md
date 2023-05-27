@@ -127,4 +127,4 @@ ALIEN88は、物理的な配置としては英語配列(US ANSI)をベースに�
   - [QMK Firmware document](https://docs.qmk.fm/#/ja/)
   
 --------
-[HOME](index.md)
+[HOME](../README.md)
